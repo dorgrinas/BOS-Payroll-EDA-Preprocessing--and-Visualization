@@ -11,3 +11,5 @@ project steps:
 7. Z-Score Transformation: Using Z-scores, we standardize selected columns to identify significant deviations from the mean, aiding in anomaly detection.
 8. Log Transformation: To address non-normal data, we apply a log transformation to 'TOTAL_GROSS,' visualizing the transformed data.
 9. Correlation Insights: Calculating and visualizing a correlation matrix, we uncover relationships between numeric columns, offering valuable insights into data associations.
+
+
