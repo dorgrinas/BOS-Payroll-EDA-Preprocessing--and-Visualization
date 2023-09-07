@@ -1,4 +1,4 @@
-# BOS-Payroll-2022-EDA-and-Visualization
+# BOS-Payroll-2022-EDA-Preprocessing-and-Visualization
 Each year, the City of Boston releases its "Employee Earnings Report," a comprehensive dataset detailing employee names, job specifics, and earnings, including base salaries, overtime, and total compensation. This valuable dataset, accessible via the City of Boston data portal, offers a window into the city's workforce.
 
 project steps:
